@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="LINKEDSITE" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="NAME" height="30" width="30" /></a>
-<a href="INSTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NAME" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vishalsharmagkn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NAME" height="30" width="40" /></a>
   <a href="LINKTREE" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="NAME" height="30" width="30" /></a>
 </p>
 
