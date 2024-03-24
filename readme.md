@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=435&height=53&lines=I'm+learning+machine+learning" alt="Typing SVG" /></a></h3>
 
-- 🔭 I’m currently working on **energy-optimising web app**
+- 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Mongo DB And JS NODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
