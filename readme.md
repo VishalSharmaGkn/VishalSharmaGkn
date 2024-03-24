@@ -10,7 +10,7 @@
 <p align="left">
   <a href="www.linkedin.com/in/vishal-sharma-645428238" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="NAME" height="30" width="30" /></a>
 <a href="https://www.instagram.com/vishalsharmagkn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="NAME" height="30" width="40" /></a>
-  <a href="Leetcode" target="blank"><img align="center" src="https://api.blog.production.Leetcode.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="NAME" height="30" width="30" /></a>
+  <a href="Leetcode" target="blank"><img align="center" src="[https://api.blog.production.Leetcode.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)" alt="NAME" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
